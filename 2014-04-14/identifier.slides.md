@@ -174,7 +174,7 @@ $\Rightarrow$ `http://www.w3.org/2004/02/skos/core#prefLabel`
 * Struktur `10.` ORGANISATION `/` ID 
 * Einbindung in URI-System 
     * Präfix `doi:`
-    * URL-Präfix des IDF-Resolver `http://dx.doi.org/`
+    * URL-Präfix des IDF-Resolver `https://doi.org/`
 
 # Eigenschaften und Anforderungen and Identifikatoren
 
