@@ -85,7 +85,7 @@
 @. Welche deutschen Hochschulen betreiben seit wann und in welcher Form ein
    **Forschungsinformationssystem**? Erstellung eines übersichtlichen
    Vergleichs (Zusammenfassung des vorläufigen DINI-Berichts
-   "[**Forschungsinformationssysteme**](http://dx.doi.org/10.5281/zenodo.7697) 
+   "[**Forschungsinformationssysteme**](https://doi.org/10.5281/zenodo.7697) 
    in Hochschulen und Forschungseinrichtungen" (36 S.) vergleichbar mit 
    der vor fünf Jahren erstellten Übersicht von "Hochschulbibliografien an
    deutschen Hochschulen" (Voß & Scherer, 2009)

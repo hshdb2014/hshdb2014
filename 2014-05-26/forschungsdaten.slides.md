@@ -28,7 +28,7 @@ Allianz der deutschen Wissenschaftsorganisationen^[<http://www.allianzinitiative
 
 # Beispiele
 
-<http://dx.doi.org/10.1594/PANGAEA.125848>
+<https://doi.org/10.1594/PANGAEA.125848>
 
 <https://www.youtube.com/watch?v=hrHM3bUym3g>
 
